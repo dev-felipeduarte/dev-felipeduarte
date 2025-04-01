@@ -1,6 +1,6 @@
 ## Olá, Eu sou Felipe Duarte 👋
 
-- 🔭 Hoje trabalho como técnico de informática
+- 🔭 Hoje trabalho como técnico de informática na Área Hospitalar
 - 🌱 Aluno de Análise e Desenvolvimento de Sistema
 - 📫 Contate-me no e-mail: profissionalfelipe.duarte@hotmail.com
 - 😄 Pronouns: ele/dele

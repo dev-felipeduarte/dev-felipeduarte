@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como técnico de informática na Área Hospitalar
 - 🌱 Aluno de Análise e Desenvolvimento de Sistema
 - 📫 Contate-me no e-mail: profissionalfelipe.duarte@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
